@@ -1,4 +1,3 @@
-
 #Verificador se a idade do usuário se encaixa como a de um eleitor
 
 from datetime import date
